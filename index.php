@@ -1,3 +1,3 @@
 <?
-$url="http://arbitragect.com/";
+$url="https://arbitragect.com/ru/index.html";
 echo $url;
